@@ -1,7 +1,7 @@
 # test coverage for  [string (v3.3.3)](http://stringjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-string.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-string) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-string.svg)](https://travis-ci.org/npmtest/node-npmtest-string)
 #### string contains methods that aren't included in the vanilla JavaScript string such as escaping html, decoding html entities, stripping tags, etc.
 
-[![NPM](https://nodei.co/npm/string.png?downloads=true)](https://www.npmjs.com/package/string)
+[![NPM](https://nodei.co/npm/string.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/string)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-string/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-string/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-string/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-string/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-string/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-string/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-string/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-string/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-string/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-string/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-string%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-string/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-string/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-string/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-string/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-string%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-string/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-string/build/test-report.html](https://npmtest.github.io/node-npmtest-string/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-string/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-string/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-string/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-string/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-string/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-string/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-string/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +33,7 @@
 
 {
     "author": {
-        "name": "JP Richardson",
-        "email": "jprichardson@gmail.com"
+        "name": "JP Richardson"
     },
     "bugs": {
         "url": "https://github.com/jprichardson/string.js/issues"
@@ -78,17 +83,14 @@
     "main": "lib/string",
     "maintainers": [
         {
-            "name": "jprichardson",
-            "email": "jprichardson@gmail.com"
+            "name": "jprichardson"
         },
         {
-            "name": "az7arul",
-            "email": "az7arul@gmail.com"
+            "name": "az7arul"
         }
     ],
     "name": "string",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/jprichardson/string.js.git"
