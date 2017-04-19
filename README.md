@@ -1,4 +1,7 @@
-# test coverage for  [string (v3.3.3)](http://stringjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-string.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-string) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-string.svg)](https://travis-ci.org/npmtest/node-npmtest-string)
+# npmtest-string
+
+#### basic test coverage for  [string (v3.3.3)](http://stringjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-string.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-string) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-string.svg)](https://travis-ci.org/npmtest/node-npmtest-string)
+
 #### string contains methods that aren't included in the vanilla JavaScript string such as escaping html, decoding html entities, stripping tags, etc.
 
 [![NPM](https://nodei.co/npm/string.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/string)
